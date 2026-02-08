@@ -11,9 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/minsaf7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minsaf7" height="30" width="40" /></a>
-<a href="https://fb.com/minsaf7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minsaf7" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/minsaf7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minsaf7" height="30" width="40" /></a> -->
+<!-- <a href="https://fb.com/minsaf7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minsaf7" height="30" width="40" /></a> -->
 <a href="https://instagram.com/minsaaaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minsaaaf" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-minsaaf/" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
