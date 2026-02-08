@@ -5,9 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minsaf7" alt="minsaf7" /></a> </p> -->
 
-- 🌱 I’m currently learning **Flutter, Swift & React JS**
-
-- 💬 Ask me about **Flutter, React JS**
+- 💬 Ask me about **Flutter, React JS, Next JS**
 
 - 📫 How to reach me **minsafmohamed7@gmail.com**
 
